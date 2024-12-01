@@ -1,0 +1,482 @@
+2024-11-29T11:54:03.992Z [info]: User Athy logged in successfully
+2024-11-29T11:55:14.164Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-29T11:55:46.071Z [info]: User Athy logged in successfully
+2024-11-30T07:13:48.889Z [info]: User Athy logged in successfully
+2024-11-30T07:35:45.871Z [info]: User Athy logged in successfully
+2024-11-30T07:58:51.351Z [warn]: Login failed: User  does not exist
+2024-11-30T07:59:00.507Z [warn]: Login failed: User  does not exist
+2024-11-30T07:59:07.189Z [warn]: Login failed: User  does not exist
+2024-11-30T07:59:13.307Z [warn]: Login failed: User  does not exist
+2024-11-30T07:59:18.919Z [warn]: Login failed: User  does not exist
+2024-11-30T08:00:35.952Z [warn]: Login failed: User  does not exist
+2024-11-30T08:00:41.780Z [warn]: Login failed: User  does not exist
+2024-11-30T08:06:57.764Z [warn]: Login failed: User  does not exist
+2024-11-30T08:07:16.322Z [warn]: Login failed: User  does not exist
+2024-11-30T10:20:41.298Z [warn]: Login failed: User  does not exist
+2024-11-30T10:20:45.202Z [warn]: CAPTCHA verification failed
+2024-11-30T10:30:29.669Z [warn]: Login failed: User  does not exist
+2024-11-30T10:30:33.947Z [warn]: Login failed: User  does not exist
+2024-11-30T10:36:10.433Z [warn]: Login failed: User  does not exist
+2024-11-30T10:39:22.345Z [warn]: Login failed: User  does not exist
+2024-11-30T10:39:56.219Z [warn]: Login failed: User  does not exist
+2024-11-30T10:40:30.327Z [info]: User Athy logged in successfully
+2024-11-30T10:41:25.078Z [info]: User Athy logged in successfully
+2024-11-30T10:43:10.704Z [info]: User Athy logged in successfully
+2024-11-30T10:43:25.343Z [info]: User Athy logged in successfully
+2024-11-30T10:44:55.479Z [info]: User Athy logged in successfully
+2024-11-30T10:44:58.874Z [warn]: CAPTCHA verification failed
+2024-11-30T10:52:21.238Z [warn]: Login failed: User dvc does not exist
+2024-11-30T10:53:04.139Z [warn]: Login failed: User dvc does not exist
+2024-11-30T10:57:43.621Z [warn]: Login failed: User  does not exist
+2024-11-30T10:57:56.832Z [warn]: Login failed: User  does not exist
+2024-11-30T11:04:02.308Z [warn]: Login failed: User  does not exist
+2024-11-30T11:04:14.628Z [warn]: Login failed: User  does not exist
+2024-11-30T11:06:36.890Z [warn]: Login failed: User  does not exist
+2024-11-30T11:06:46.635Z [warn]: Login failed: User  does not exist
+2024-11-30T11:08:23.169Z [info]: User Athy logged in successfully
+2024-11-30T11:10:40.004Z [info]: User Athy logged in successfully
+2024-11-30T11:11:05.385Z [warn]: Login failed: User  does not exist
+2024-11-30T11:11:47.342Z [warn]: Login failed: User  does not exist
+2024-11-30T11:13:13.943Z [warn]: Login failed: User  does not exist
+2024-11-30T11:13:25.618Z [warn]: Login failed: User  does not exist
+2024-11-30T11:20:42.447Z [warn]: Login failed: User  does not exist
+2024-11-30T11:21:06.438Z [warn]: Login failed: User  does not exist
+2024-11-30T11:21:32.766Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:23:29.397Z [warn]: Login failed: User  does not exist
+2024-11-30T11:23:44.229Z [warn]: Login failed: User  does not exist
+2024-11-30T11:23:58.746Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:24:00.603Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:24:01.674Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:24:08.179Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:56:33.032Z [warn]: Login failed: User  does not exist
+2024-11-30T11:56:38.041Z [warn]: Login failed: User  does not exist
+2024-11-30T11:56:42.782Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:56:51.165Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:56:52.220Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:56:53.170Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:56:53.904Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:56:54.111Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:57:44.114Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T11:58:23.043Z [warn]: Login failed: User  does not exist
+2024-11-30T11:58:29.541Z [warn]: Login failed: User  does not exist
+2024-11-30T11:58:35.518Z [warn]: Login failed: User  does not exist
+2024-11-30T11:58:40.511Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:00:45.521Z [warn]: Login failed: User  does not exist
+2024-11-30T12:01:01.402Z [warn]: Login failed: User  does not exist
+2024-11-30T12:01:10.715Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:04:56.024Z [warn]: Login failed: User  does not exist
+2024-11-30T12:05:11.171Z [warn]: Login failed: User  does not exist
+2024-11-30T12:05:26.158Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:05:47.385Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:06:14.878Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:06:44.966Z [warn]: Login failed: User  does not exist
+2024-11-30T12:07:09.104Z [warn]: Login failed: User  does not exist
+2024-11-30T12:07:19.597Z [warn]: Login failed: User  does not exist
+2024-11-30T12:07:45.388Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:08:34.666Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T12:25:04.381Z [info]: User Athy logged in successfully
+2024-11-30T12:28:15.835Z [info]: User Athy logged in successfully
+2024-11-30T12:31:49.609Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T12:32:12.943Z [info]: User Athy logged in successfully
+2024-11-30T13:12:52.459Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T13:13:11.358Z [info]: User Athy logged in successfully
+2024-11-30T13:13:36.058Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T13:13:52.984Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-11-30T13:14:36.756Z [info]: User Athy logged in successfully
+2024-11-30T13:20:05.959Z [info]: User Athy logged in successfully
+2024-11-30T13:20:47.268Z [info]: User Athy logged in successfully
+2024-11-30T13:37:42.895Z [info]: User Athy logged in successfully
+2024-11-30T13:38:51.159Z [info]: User Athy logged in successfully
+2024-11-30T13:53:00.114Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T13:53:14.301Z [info]: User Athy logged in successfully
+2024-11-30T13:55:03.963Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T13:55:19.718Z [info]: User Athy logged in successfully
+2024-11-30T14:01:57.004Z [info]: User Athy logged in successfully
+2024-11-30T14:05:54.766Z [info]: User Athy logged in successfully
+2024-11-30T14:07:02.135Z [info]: User Athy logged in successfully
+2024-11-30T14:30:38.446Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T14:31:08.825Z [info]: User Athy logged in successfully
+2024-11-30T14:31:36.850Z [info]: User Athy logged in successfully
+2024-11-30T14:32:42.159Z [info]: User Admin logged in successfully
+2024-11-30T14:55:05.426Z [info]: User created successfully: Ashaz
+2024-11-30T14:55:48.021Z [info]: User Ashaz logged in successfully
+2024-11-30T15:10:00.764Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:10:25.696Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T15:10:46.340Z [info]: User Athy logged in successfully
+2024-11-30T15:11:01.649Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:11:07.106Z [info]: Password successfully changed for user Athy
+2024-11-30T15:11:33.468Z [info]: User Athy logged in successfully
+2024-11-30T15:11:37.707Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:11:45.181Z [warn]: Password change failed for user Athy: Wrong password entered.
+2024-11-30T15:11:45.248Z [info]: Password successfully changed for user Athy
+2024-11-30T15:12:42.119Z [info]: User Athy logged in successfully
+2024-11-30T15:12:43.642Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:12:49.372Z [warn]: Password change failed for user Athy: Wrong password entered.
+2024-11-30T15:12:49.442Z [info]: Password successfully changed for user Athy
+2024-11-30T15:25:32.814Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:26:26.935Z [warn]: Password change failed for user Athy: Wrong password entered.
+2024-11-30T15:26:27.005Z [info]: Password successfully changed for user Athy
+2024-11-30T15:27:39.078Z [info]: User Admin logged in successfully
+2024-11-30T15:27:44.283Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:27:48.181Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T15:28:08.128Z [warn]: Password change failed for user Admin: Wrong password entered.
+2024-11-30T15:28:08.198Z [info]: Password successfully changed for user Admin
+2024-11-30T15:29:57.418Z [info]: User Admin logged in successfully
+2024-11-30T15:39:41.280Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T15:39:53.657Z [warn]: Password change failed for user Admin: Wrong password entered.
+2024-11-30T15:39:53.744Z [info]: Password successfully changed for user Admin
+2024-11-30T15:42:35.364Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T15:42:45.360Z [info]: Password successfully changed for user Admin
+2024-11-30T15:43:05.410Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T15:43:17.856Z [info]: User Athy logged in successfully
+2024-11-30T15:43:18.999Z [info]: User info retrieved successfully for user ID: 1
+2024-11-30T15:43:27.876Z [warn]: Password change failed for user Athy: Wrong password entered.
+2024-11-30T15:43:38.620Z [warn]: Password change failed for user Athy: Wrong password entered.
+2024-11-30T15:44:10.779Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T15:44:25.800Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T15:44:42.941Z [info]: User Admin logged in successfully
+2024-11-30T15:44:49.742Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T15:45:10.038Z [warn]: Password change failed for user Admin: Wrong password entered.
+2024-11-30T15:45:18.869Z [info]: Password successfully changed for user Admin
+2024-11-30T15:45:34.914Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T15:45:46.042Z [info]: User Admin logged in successfully
+2024-11-30T16:03:25.795Z [info]: User created successfully: Athy
+2024-11-30T16:08:48.976Z [info]: User created successfully: User1
+2024-11-30T16:09:58.818Z [info]: User User1 logged in successfully
+2024-11-30T16:10:16.717Z [info]: User created successfully: Athy
+2024-11-30T16:11:01.301Z [info]: User Athy logged in successfully
+2024-11-30T16:11:32.937Z [info]: User info retrieved successfully for user ID: 5
+2024-11-30T16:11:53.781Z [warn]: Login failed: Incorrect password for user Athy
+2024-11-30T16:12:04.803Z [info]: User Athy logged in successfully
+2024-11-30T16:14:05.592Z [info]: User Athy logged in successfully
+2024-11-30T16:14:09.622Z [info]: User info retrieved successfully for user ID: 5
+2024-11-30T16:14:55.711Z [info]: User info retrieved successfully for user ID: 5
+2024-11-30T16:15:55.754Z [info]: User Athy logged in successfully
+2024-11-30T16:39:08.229Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:39:11.490Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T16:39:15.350Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:39:16.931Z [info]: Post retrieved successfully with ID: 4
+2024-11-30T16:39:19.015Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:39:41.375Z [info]: Post created successfully by user ID: 7
+2024-11-30T16:39:41.412Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:39:46.478Z [info]: User info retrieved successfully for user ID: 7
+2024-11-30T16:39:46.498Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:39:52.296Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:39:54.018Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T16:40:03.299Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:40:05.923Z [info]: Post retrieved successfully with ID: 10
+2024-11-30T16:40:46.021Z [info]: Post title updated successfully for post ID: 10
+2024-11-30T16:41:04.591Z [info]: Post text updated successfully for post ID: 10
+2024-11-30T16:41:16.194Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:56:55.959Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:57:34.046Z [warn]: Login failed: User Adad does not exist
+2024-11-30T16:58:10.292Z [info]: User Athy logged in successfully
+2024-11-30T16:58:10.412Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:59:31.374Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T16:59:34.263Z [info]: Like added: UserId 7, PostId 10
+2024-11-30T16:59:37.624Z [info]: Like added: UserId 7, PostId 4
+2024-11-30T16:59:40.479Z [info]: Like added: UserId 7, PostId 3
+2024-11-30T16:59:44.513Z [info]: Like removed: UserId 7, PostId 4
+2024-11-30T16:59:46.256Z [info]: Post retrieved successfully with ID: 10
+2024-11-30T16:59:46.269Z [info]: Comments retrieved successfully for PostId: 10
+2024-11-30T16:59:49.996Z [info]: Comment created successfully by user Athy for PostId: 10
+2024-11-30T16:59:52.748Z [info]: Comment deleted successfully with ID: undefined
+2024-11-30T17:00:04.989Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T17:44:06.490Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T17:59:14.022Z [info]: User Athy logged in successfully
+2024-11-30T17:59:14.115Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T17:59:35.087Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:00:19.847Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:00:34.576Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:01:30.260Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:02:17.386Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:02:23.951Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:02:25.456Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-11-30T18:02:36.290Z [info]: User created successfully: Athy2
+2024-11-30T18:17:38.954Z [info]: User Athy logged in successfully
+2024-11-30T18:17:38.997Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T18:17:41.150Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T18:17:41.155Z [info]: Comments retrieved successfully for PostId: 3
+2024-11-30T18:17:42.960Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T18:17:56.729Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T18:17:56.731Z [info]: Comments retrieved successfully for PostId: 3
+2024-11-30T18:17:59.078Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T18:52:05.144Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T18:52:24.202Z [info]: User Athy logged in successfully
+2024-11-30T18:52:24.260Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T18:52:27.612Z [info]: Like added: UserId 7, PostId 4
+2024-11-30T18:52:28.224Z [info]: Like removed: UserId 7, PostId 4
+2024-11-30T18:59:32.451Z [info]: Post created successfully by user ID: 7
+2024-11-30T18:59:32.539Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T18:59:37.030Z [info]: Like added: UserId 7, PostId 11
+2024-11-30T19:00:05.844Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T19:00:06.098Z [warn]: CAPTCHA verification failed
+2024-11-30T19:00:19.817Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T19:00:41.387Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T19:00:54.848Z [info]: User Athy logged in successfully
+2024-11-30T19:00:54.907Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T19:03:57.593Z [info]: User Athy logged in successfully
+2024-11-30T19:03:57.665Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T19:03:57.799Z [warn]: CAPTCHA verification failed
+2024-11-30T19:04:01.720Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:24:35.021Z [info]: User Athy logged in successfully
+2024-11-30T20:24:35.076Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:25:43.310Z [warn]: Login failed: User sfsfsf does not exist
+2024-11-30T20:25:58.604Z [info]: User Athy logged in successfully
+2024-11-30T20:25:58.668Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:26:07.979Z [info]: Like added: UserId 7, PostId 4
+2024-11-30T20:26:09.269Z [info]: Like removed: UserId 7, PostId 4
+2024-11-30T20:26:10.236Z [info]: Like added: UserId 7, PostId 4
+2024-11-30T20:26:13.374Z [info]: Posts retrieved successfully for user ID: 2
+2024-11-30T20:26:13.379Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T20:26:15.026Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:26:18.267Z [warn]: User not found for ID: null
+2024-11-30T20:26:18.270Z [info]: Posts retrieved successfully for user ID: null
+2024-11-30T20:26:26.798Z [warn]: User not found for ID: null
+2024-11-30T20:26:26.801Z [info]: Posts retrieved successfully for user ID: null
+2024-11-30T20:26:31.097Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:26:34.911Z [info]: User info retrieved successfully for user ID: 7
+2024-11-30T20:26:34.913Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:26:38.615Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:26:43.021Z [warn]: User not found for ID: null
+2024-11-30T20:26:43.027Z [info]: Posts retrieved successfully for user ID: null
+2024-11-30T20:26:47.897Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:07.673Z [info]: Post created successfully by user ID: 7
+2024-11-30T20:27:07.704Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:10.650Z [info]: Like added: UserId 7, PostId 12
+2024-11-30T20:27:12.974Z [info]: User info retrieved successfully for user ID: 7
+2024-11-30T20:27:12.983Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:16.424Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:19.086Z [info]: User info retrieved successfully for user ID: 7
+2024-11-30T20:27:19.092Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:19.676Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:21.589Z [info]: User info retrieved successfully for user ID: 7
+2024-11-30T20:27:21.592Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:32.929Z [info]: User info retrieved successfully for user ID: 7
+2024-11-30T20:27:32.932Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:37.870Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:41.750Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T20:27:41.753Z [info]: Posts retrieved successfully for user ID: 2
+2024-11-30T20:27:44.620Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T20:27:44.629Z [info]: Comments retrieved successfully for PostId: 3
+2024-11-30T20:27:47.126Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T20:27:47.128Z [info]: Posts retrieved successfully for user ID: 2
+2024-11-30T20:27:49.498Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:27:51.550Z [warn]: User not found for ID: null
+2024-11-30T20:27:51.555Z [info]: Posts retrieved successfully for user ID: null
+2024-11-30T20:27:52.509Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:28:27.241Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T20:28:27.243Z [info]: Posts retrieved successfully for user ID: 2
+2024-11-30T20:28:31.184Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T20:28:31.186Z [info]: Comments retrieved successfully for PostId: 3
+2024-11-30T20:30:35.085Z [info]: Comment created successfully by user Athy for PostId: 3
+2024-11-30T20:30:39.866Z [info]: Comment deleted successfully with ID: 4
+2024-11-30T20:30:43.771Z [info]: User info retrieved successfully for user ID: 2
+2024-11-30T20:30:43.779Z [info]: Posts retrieved successfully for user ID: 2
+2024-11-30T20:30:49.386Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:30:56.625Z [info]: Post retrieved successfully with ID: 12
+2024-11-30T20:30:56.628Z [info]: Comments retrieved successfully for PostId: 12
+2024-11-30T20:30:57.788Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:31:00.533Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T20:31:00.537Z [info]: Comments retrieved successfully for PostId: 3
+2024-11-30T20:31:02.014Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:31:15.833Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T20:31:26.736Z [warn]: Login failed: Incorrect password for user Admin
+2024-11-30T20:31:59.745Z [info]: User User1 logged in successfully
+2024-11-30T20:31:59.802Z [info]: Posts retrieved successfully for user ID: 6
+2024-11-30T20:32:02.585Z [info]: Post retrieved successfully with ID: 3
+2024-11-30T20:32:02.590Z [info]: Comments retrieved successfully for PostId: 3
+2024-11-30T20:35:53.960Z [info]: User Athy logged in successfully
+2024-11-30T20:35:53.998Z [info]: Posts retrieved successfully for user ID: 7
+2024-11-30T20:35:56.959Z [info]: Like removed: UserId 7, PostId 3
+2024-11-30T20:35:57.646Z [info]: Like added: UserId 7, PostId 3
+2024-11-30T21:17:52.219Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:01:11.506Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:01:27.221Z [warn]: Login failed: User  does not exist
+2024-12-01T03:01:38.728Z [warn]: Login failed: User bsdce does not exist
+2024-12-01T03:01:46.184Z [warn]: Login failed: Incorrect password for user Athy
+2024-12-01T03:01:55.985Z [info]: User Athy logged in successfully
+2024-12-01T03:01:56.029Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:02:14.560Z [info]: Post created successfully by user ID: 7
+2024-12-01T03:02:14.583Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:02:18.612Z [info]: Like added: UserId 7, PostId 13
+2024-12-01T03:02:22.261Z [info]: Post retrieved successfully with ID: 13
+2024-12-01T03:02:22.266Z [info]: Comments retrieved successfully for PostId: 13
+2024-12-01T03:02:27.308Z [info]: Comment created successfully by user Athy for PostId: 13
+2024-12-01T03:02:45.808Z [info]: Post title updated successfully for post ID: 13
+2024-12-01T03:02:50.606Z [info]: Post text updated successfully for post ID: 13
+2024-12-01T03:02:51.785Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:02:55.433Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T03:02:55.435Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:02:57.850Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:01.086Z [info]: User info retrieved successfully for user ID: 2
+2024-12-01T03:03:01.089Z [info]: Posts retrieved successfully for user ID: 2
+2024-12-01T03:03:04.657Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:06.996Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T03:03:06.999Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:07.496Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:12.014Z [info]: User info retrieved successfully for user ID: 2
+2024-12-01T03:03:12.016Z [info]: Posts retrieved successfully for user ID: 2
+2024-12-01T03:03:12.353Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:14.660Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T03:03:14.662Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:23.403Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:03:49.286Z [info]: User User1 logged in successfully
+2024-12-01T03:03:49.316Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T03:04:41.157Z [info]: Like added: UserId 6, PostId 13
+2024-12-01T03:04:42.363Z [info]: Post retrieved successfully with ID: 13
+2024-12-01T03:04:42.369Z [info]: Comments retrieved successfully for PostId: 13
+2024-12-01T03:04:48.227Z [info]: Comment created successfully by user User1 for PostId: 13
+2024-12-01T03:04:56.045Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T03:05:14.250Z [info]: Post created successfully by user ID: 6
+2024-12-01T03:05:14.268Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T03:05:19.493Z [info]: Like added: UserId 6, PostId 14
+2024-12-01T03:06:05.827Z [info]: User Athy logged in successfully
+2024-12-01T03:06:05.861Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:06:09.033Z [info]: Like added: UserId 7, PostId 14
+2024-12-01T03:06:12.461Z [info]: Post retrieved successfully with ID: 13
+2024-12-01T03:06:12.463Z [info]: Comments retrieved successfully for PostId: 13
+2024-12-01T03:06:25.611Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T03:24:23.481Z [info]: User Athy logged in successfully
+2024-12-01T03:24:23.538Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T04:22:03.243Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T04:22:37.991Z [info]: User User1 logged in successfully
+2024-12-01T04:22:38.068Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:22:41.667Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:22:41.674Z [info]: User info retrieved successfully for user ID: 6
+2024-12-01T04:23:23.634Z [info]: User info retrieved successfully for user ID: 6
+2024-12-01T04:23:23.641Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:24:04.534Z [warn]: Password change failed for user User1: Wrong password entered.
+2024-12-01T04:24:12.696Z [info]: Password successfully changed for user User1
+2024-12-01T04:24:28.835Z [info]: User User1 logged in successfully
+2024-12-01T04:24:28.908Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:25:00.485Z [info]: User info retrieved successfully for user ID: 6
+2024-12-01T04:25:00.489Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:26:38.052Z [info]: Password successfully changed for user User1
+2024-12-01T04:26:52.556Z [info]: User User1 logged in successfully
+2024-12-01T04:26:52.588Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:44:06.845Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T04:45:36.858Z [warn]: Login failed: User  does not exist
+2024-12-01T05:06:36.704Z [warn]: Login failed: User dfsdc does not exist
+2024-12-01T05:07:06.559Z [info]: User Athy logged in successfully
+2024-12-01T05:07:06.628Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:07:14.812Z [info]: Like removed: UserId 7, PostId 3
+2024-12-01T05:07:15.416Z [info]: Like added: UserId 7, PostId 3
+2024-12-01T05:07:31.968Z [info]: User Athy logged in successfully
+2024-12-01T05:07:32.021Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:09:44.196Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:12:23.502Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:13:15.805Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:13:49.293Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:13:50.210Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:14:27.500Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:14:28.440Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:17:38.702Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:22:13.875Z [warn]: Registration failed: Username 'Athy' is already taken.
+2024-12-01T05:22:22.634Z [info]: User created successfully: Shasny
+2024-12-01T05:22:39.983Z [info]: User Shasny logged in successfully
+2024-12-01T05:22:40.053Z [info]: Posts retrieved successfully for user ID: 9
+2024-12-01T05:22:47.766Z [info]: Like added: UserId 9, PostId 13
+2024-12-01T05:22:49.809Z [info]: Like added: UserId 9, PostId 3
+2024-12-01T05:22:50.579Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T05:22:50.590Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T05:22:54.614Z [info]: Comment created successfully by user Shasny for PostId: 3
+2024-12-01T05:23:23.510Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T05:23:23.517Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T05:23:25.046Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T05:23:25.050Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T05:23:29.554Z [info]: Posts retrieved successfully for user ID: 9
+2024-12-01T05:23:44.764Z [info]: Post created successfully by user ID: 9
+2024-12-01T05:23:44.804Z [info]: Posts retrieved successfully for user ID: 9
+2024-12-01T05:23:48.238Z [info]: Like added: UserId 9, PostId 15
+2024-12-01T05:23:50.860Z [info]: Post retrieved successfully with ID: 15
+2024-12-01T05:23:50.865Z [info]: Comments retrieved successfully for PostId: 15
+2024-12-01T05:24:02.181Z [info]: Posts retrieved successfully for user ID: 9
+2024-12-01T05:24:07.414Z [info]: User info retrieved successfully for user ID: 2
+2024-12-01T05:24:07.428Z [info]: Posts retrieved successfully for user ID: 2
+2024-12-01T05:24:10.150Z [info]: Posts retrieved successfully for user ID: 9
+2024-12-01T05:24:13.282Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T05:24:13.288Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:24:15.696Z [info]: Posts retrieved successfully for user ID: 9
+2024-12-01T05:24:40.233Z [warn]: Login failed: User  does not exist
+2024-12-01T05:24:45.795Z [warn]: Login failed: User  does not exist
+2024-12-01T05:24:50.580Z [warn]: Rate limit exceeded: IP ::1 on route /auth/login
+2024-12-01T05:26:03.839Z [info]: User Athy logged in successfully
+2024-12-01T05:26:03.928Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:26:05.633Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T05:26:05.637Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T05:26:12.269Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:26:13.546Z [info]: Post retrieved successfully with ID: 4
+2024-12-01T05:26:13.552Z [info]: Comments retrieved successfully for PostId: 4
+2024-12-01T05:26:14.378Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:47:06.209Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:47:08.868Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:53:32.242Z [warn]: Login failed: User  does not exist
+2024-12-01T05:54:01.888Z [info]: User Athy logged in successfully
+2024-12-01T05:54:02.006Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:54:07.487Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T05:54:07.493Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:54:34.323Z [info]: Password successfully changed for user Athy
+2024-12-01T05:54:57.791Z [warn]: Login failed: Incorrect password for user Athy
+2024-12-01T05:55:11.478Z [info]: User Athy logged in successfully
+2024-12-01T05:55:11.544Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:55:15.926Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T05:55:15.937Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T05:55:17.174Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:55:19.142Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T05:55:19.146Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T05:55:19.832Z [info]: Comment deleted successfully with ID: 6
+2024-12-01T05:55:20.699Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:55:23.477Z [info]: Post retrieved successfully with ID: 13
+2024-12-01T05:55:23.481Z [info]: Comments retrieved successfully for PostId: 13
+2024-12-01T05:55:31.782Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:55:42.443Z [info]: Like removed: UserId 7, PostId 3
+2024-12-01T05:55:43.163Z [info]: Like added: UserId 7, PostId 3
+2024-12-01T05:56:04.561Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T05:56:04.567Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T05:56:18.547Z [info]: Password successfully changed for user Athy
+2024-12-01T05:56:46.247Z [warn]: Login failed: Incorrect password for user Athy
+2024-12-01T05:57:00.473Z [info]: User Athy logged in successfully
+2024-12-01T05:57:00.535Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:14:59.678Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:18:32.664Z [warn]: Login failed: User  does not exist
+2024-12-01T06:18:59.380Z [info]: User Athy logged in successfully
+2024-12-01T06:18:59.529Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:19:05.911Z [info]: Like removed: UserId 7, PostId 3
+2024-12-01T06:19:07.169Z [info]: Like added: UserId 7, PostId 3
+2024-12-01T06:19:09.493Z [info]: Post retrieved successfully with ID: 3
+2024-12-01T06:19:09.500Z [info]: Comments retrieved successfully for PostId: 3
+2024-12-01T06:19:19.386Z [info]: Comment created successfully by user Athy for PostId: 3
+2024-12-01T06:19:24.509Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:19:33.749Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:19:52.369Z [info]: Post created successfully by user ID: 7
+2024-12-01T06:19:52.403Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:19:55.378Z [info]: Like added: UserId 7, PostId 16
+2024-12-01T06:19:57.444Z [info]: User info retrieved successfully for user ID: 7
+2024-12-01T06:19:57.449Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:20:04.273Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T06:20:33.781Z [info]: User User1 logged in successfully
+2024-12-01T06:20:33.873Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T06:20:37.071Z [info]: Like added: UserId 6, PostId 16
+2024-12-01T06:20:37.980Z [info]: Post retrieved successfully with ID: 16
+2024-12-01T06:20:37.986Z [info]: Comments retrieved successfully for PostId: 16
+2024-12-01T06:20:40.708Z [info]: Comment created successfully by user User1 for PostId: 16
+2024-12-01T06:20:50.815Z [info]: Post created successfully by user ID: 6
+2024-12-01T06:20:50.854Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T06:20:54.239Z [info]: Post retrieved successfully with ID: 17
+2024-12-01T06:20:54.245Z [info]: Comments retrieved successfully for PostId: 17
+2024-12-01T06:20:55.514Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T06:21:16.297Z [info]: Post created successfully by user ID: 6
+2024-12-01T06:21:16.333Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T06:21:24.383Z [info]: Like added: UserId 6, PostId 18
+2024-12-01T06:21:26.762Z [info]: User info retrieved successfully for user ID: 6
+2024-12-01T06:21:26.769Z [info]: Posts retrieved successfully for user ID: 6
+2024-12-01T06:21:41.994Z [info]: Password successfully changed for user User1
+2024-12-01T11:42:28.557Z [info]: User Athy logged in successfully
+2024-12-01T11:42:28.629Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T11:50:45.797Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T16:01:53.121Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T16:02:03.621Z [info]: User Athy logged in successfully
+2024-12-01T16:02:03.664Z [info]: Posts retrieved successfully for user ID: 7
+2024-12-01T16:14:28.484Z [info]: User Athy logged in successfully
+2024-12-01T16:14:28.566Z [info]: Posts retrieved successfully for user ID: 7

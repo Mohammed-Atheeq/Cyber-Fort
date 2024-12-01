@@ -1,0 +1,54 @@
+/* General container styling */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Ensures the gradient covers the full page */
+    background: linear-gradient(135deg, #f5f7fa, #1c6be9); /* Gradient background */
+    font-family: 'Arial', sans-serif;
+  }
+.loginContainer {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+  }
+
+  .loginContainer label {
+    display: block; /* Makes sure each label is on its own line */
+   /* Adds spacing below the label */
+  font-size: 20px; /* Adjusts font size */
+  font-weight: 600; /* Makes the text slightly bold */
+  color: #555; /* Sets a neutral color */
+  text-align: left; /* Aligns the label text to the left */
+   /* Slightly indents the labels for alignment */
+  
+  }
+  .loginContainer input {
+    width: 15%;
+    font-size: 14px;
+    background: #f9f9f9;
+    transition: border 0.3s ease, box-shadow 0.3s ease;
+    padding-left: 20px;
+    
+  }
+  .loginContainer button {
+    width: 20%;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  .loginContainer button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+  }
+
+  .captcha {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
